@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A3CF4A28-AEE9-14E2-FAC5-179828EE73BE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BloodFlowController.cs">
+    <Files>
+      <File FileName="Assets/SplineController.cs" Line="118" Column="47" />
+      <File FileName="Assets/SplineInterpolator.cs" Line="51" Column="35" />
+      <File FileName="Assets/BloodFlowController.cs" Line="21" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lighthaus" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="effa5063-5beb-4dc5-8308-dbee489d902d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
